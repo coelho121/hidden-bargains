@@ -129,6 +129,6 @@ hidden-bargains/
 
 ---
 
-**Authors:** Afonso Marques, David Afonso, Guilherme Valido, Martim Coelho, Miguel Marto — Information Management, NOVA IMS.
+**Authors:** Afonso Marques, David Afonso, Guilherme Valido, Martim Coelho, Miguel Marto - Information Management, NOVA IMS.
 
-**My contribution:** I worked on every stage of the project (data collection and merging, factor analysis, outlier analysis, clustering, the Moneyball framework and the report), except the SAS visualisations, which were done by David Afonso.
+**My contribution:** I worked on every stage of the project (data collection and merging, factor analysis, outlier analysis, clustering, the Moneyball framework and the report), except the SAS visualisations.
